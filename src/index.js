@@ -1,1 +1,1 @@
-export.modules = require('./waktu')
+module.exports = require('./waktu')
