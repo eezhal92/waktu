@@ -1,4 +1,4 @@
-const waktu = require('./waktu')
+const waktu = require('./../src/waktu')
 
 test('can get hour and minute', () => {
   const pagi = new waktu('6:00')
